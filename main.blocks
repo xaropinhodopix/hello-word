@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="y.a!Dv}n!Q:+mLm,X_A^">strip</variable></variables><block type="pxt-on-start" id="}reO5Z6e]|(VR{x^g`VT" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="r8;s74VZ`,NcO6l*L.46"><field name="LEDS">`
+        . . . # . 
+        . . # # # 
+        . . . # . 
+        . . . # . 
+        # # # # #
+        `</field></block></statement></block></xml>
